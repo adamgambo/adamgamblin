@@ -43,11 +43,11 @@ Optimal Bitcoin allocation models for retail investors, built in MATLAB.
 * **Key wins:** Efficient-frontier analysis revealed that a **5 % BTC weighting maximises Sharpe ratio** in a moderate-risk portfolio.
 
 #### <a href="https://github.com/adamgambo/OptionsModel">OptionsModel</a>
-Command-line calculator for European option pricing & Greeks.
+Interactive **Streamlit** web-app that prices 10+ option strategies, plots P&L curves and ranks trades by ROI.
 
-* **Tech:** Python, Black-Scholes, Binomial tree  
-* **Key wins:** Generates full Greek report and payoff diagram in under **50 ms** for common contracts.
-
+* **Tech:** Python, Streamlit, yfinance, NumPy, Pandas, Matplotlib  
+* **Key wins:** Live option-chain pull, payoff heat-maps and a top-5 strategy screener—results come back in < 0.5 s per query.
+  
 <!-- Projects end -->
 
 ### 📫 Get in touch
