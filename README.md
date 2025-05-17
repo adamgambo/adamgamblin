@@ -47,7 +47,7 @@
 <h2 align="left">🔥 Highlight Projects</h2>
 
 <h3>
-  <a href="https://github.com/adamgambo/options-calculator">Options Strategy Calculator</a>
+  <a href="https://github.com/adamgambo/optionsmodel">Options Strategy Calculator</a>
 </h3>
 <p>A comprehensive web application for analysing and visualising options trading strategies using real-time market data.</p>
 <ul>
